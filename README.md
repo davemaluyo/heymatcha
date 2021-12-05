@@ -1,4 +1,5 @@
-# Hey Matcha Site for ART 258
-ART 258 Final Project
+# My Personal Framework
 
-Link to the [Github Pages hosted site](https://davemaluyo.github.io/heymatcha/)
+Afront-end starter for creating small websites
+
+[View Demo] (https://davemaluyo.github.io/personalframework/)
