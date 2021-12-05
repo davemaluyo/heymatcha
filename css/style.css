@@ -8,24 +8,6 @@
   font-family: "Savate";
   src: url(/fonts/savate-regular.otf);
 }
-
-.float-can {  
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
-  margin-left: 30px;
-  margin-top: 5px;
-  max-width: 300px;
-  justify-content: flex-start;
-}
-
-@keyframes floating {
-  from { transform: translate(0,  0px); }
-  65%  { transform: translate(0, 15px); }
-  to   { transform: translate(0, -0px); }    
-}
-
 /*
 
 TABLE OF CONTENTS
@@ -298,6 +280,7 @@ body {
 }
 .site-header h1 {
   font-size: 1.5em;
+  border: 1px red;
 }
 .site-header .logo {
   max-width: 100px;

@@ -1,5 +1,5 @@
-# My Personal Framework
+# Coded Final Website
 
-Afront-end starter for creating small websites
+Coded website for ART 258 Final.
 
-[View Demo] (https://davemaluyo.github.io/personalframework/)
+[View Demo] (https://davemaluyo.github.io/heymatcha/)
